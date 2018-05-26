@@ -1,0 +1,255 @@
+*{
+	padding:0;
+	margin:0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+/*header开始*/
+.header{
+	height:173px;
+	background-color: #eeeeef;
+}
+.logo{
+	padding-top:30px;
+	text-align:center;
+	height:95px;
+}
+.nav{
+	width:630px;
+	height:45px;
+	background-color:#fff;
+	margin:0 auto;
+	border-radius: 22px
+}
+.nav li{
+	float:left;
+	background:url(../images/zhongzhi_03.gif) no-repeat right center;
+	padding:0 20px;
+	line-height: 45px;
+}
+.nav li a{
+	border-bottom: 3px solid #1e50ae;
+	height:42px;
+	display:block;
+}
+.nav li:last-child{
+	background:none;
+}
+/*banner开始*/
+.banner{
+	height:405px;
+	background:url(../images/p3.png) no-repeat center center;
+	
+}
+.img{	
+	background:no-repeat center;
+	padding-left:400px;
+	padding-top: 100px;
+	
+}
+/*服务开始*/
+.serve{
+	width:1200px;
+	height:850px;
+	margin:0 auto;
+}
+.h1{
+	text-align:center;
+}
+.p{
+	line-height: 50px;
+	text-align: center;
+	font-size: 16px
+}
+.ul1{
+	padding-top: 20px;
+	display:block;
+	width:300px;
+	height:370px;
+	float:left;
+}
+.img1{
+	text-align: center;
+}
+.p1{
+	padding-left:30px;
+}
+.li{
+	background:url(../images/dian.png) no-repeat left center;
+	font-size: 14px;
+	color:#909090;
+	margin-left: 30px;
+	padding-left:15px;
+}
+.ul2{
+	width:300px;
+	float:left;
+	padding-top: 20px
+	padding-bottom:50px;
+}
+/*服务结束*/
+/*解决方案开始*/
+.solve{
+	height:771px;
+	background:url(../images/blue.png) no-repeat center center;
+}
+.solver{
+	height:771px;
+	width:1200px;
+	margin:0 auto;
+	
+
+}
+.h2{
+	font-size: 34px;
+	font-family: 微软雅黑;
+	color:white;
+	text-align: center;
+	padding-top: 70px;
+}
+.p2{
+	line-height: 50px;
+	font-family: 微软雅黑;
+	font-size:34px;
+	color:white;
+	text-align: center;
+}
+.img2{
+	padding-left:30px;
+	margin-right: 100px
+	margin-top:200px;
+	float:left;
+}
+.img3{
+	margin-top:120px;
+	float:left;
+}
+.img4{
+	margin-top:120px;
+	float:left;
+	padding-left: 30px
+}
+.img5{
+	text-align: center;
+	padding-left:470px;
+	margin-bottom:100px;
+	margin-top:100px;
+    float:left;
+}
+/*解决问题结束*/
+/*最新咨询开始*/
+.new{
+	height:910px;
+	background-color:white;
+	padding-top: 0;
+}
+.h3{
+	text-align: center;
+	padding-top: 30px;
+}
+.p3{
+	line-height: 30px;
+	text-align: center;
+	font-size: 30px;
+}
+.li1{
+	padding-left:100px;
+	color:#333333;
+	line-height: 35px;
+
+}
+.new1{
+	height:450px;
+	font-family: 微软雅黑;
+	font-size:14px;
+	line-height: 60px;
+	color:#797979;
+	padding-left:200px;
+}
+.ul3{
+	display:inline-block;
+	float:left;
+}
+.li2{
+	border-bottom:1px dashed #797979;
+}
+.ul4{
+	display:inline-block;
+	float:left;
+	padding-left:150px;
+}
+.new2{
+	height:100px;
+	background-color: #edeaf1;
+}
+.new3{
+	width:1200px;
+	height:100px;
+	background-color: #edeaf1;
+}
+.li3{
+	float:left;
+}
+/*最新咨询结束*/
+/*最后开始*/
+.end{
+	height:385px;
+	background-color:#323232;
+	
+}
+.end1{
+	height:255px;
+    margin:0 auto;
+    border-bottom:1px solid white;
+}
+.ul5{
+	float:left;
+	padding-left: 50px;
+	padding-top:50px;
+	margin-right: 40px;
+
+}
+.li3{
+	font-family: 微软雅黑;
+	font-size:15px;
+	color:white;
+	line-height: 50px;
+
+}
+.li4{
+	font-family: 微软雅黑;
+	font-size:14px;
+	color:white;
+	line-height:40px;
+
+}
+.img6{
+	padding-left:30px;
+	padding-top:65px;
+}
+.li5{
+	float:left;
+	background:url(../images/zhongzhi_03.gif) no-repeat right center;
+	padding-left:20px;
+	padding-right:30px;
+	line-height: 40px;
+	color:white;
+	font-size:14px;
+	padding-top:20px;
+	margin-left:50px;
+}
+.li6{
+	font-size:14px;
+	color:white;
+	padding-left:600px;
+	margin-bottom:30px;
+	float:left;
+}
+.img7{
+	float:right;
+}
+/*开始结束*/
